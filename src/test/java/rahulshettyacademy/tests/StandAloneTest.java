@@ -61,7 +61,8 @@ public class StandAloneTest {
 	Assert.assertTrue(confirmMessage.equalsIgnoreCase("THANKYOU FOR THE ORDER."));
 	//driver.close();
 	
-	System.out.println("Hello world111111");
+	System.out.println("Hello world1");
+	System.out.println("Hello world12");
 	
 	
 
